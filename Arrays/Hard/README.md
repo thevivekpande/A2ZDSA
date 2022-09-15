@@ -1,0 +1,17 @@
+## Index
+
+Sr. No. | Question|Link1 | Link2 | Solution
+---|---|---|---|---
+01 | Pascle Triangle | [click](https://practice.geeksforgeeks.org/problems/pascal-triangle0652/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pascal-triangle) | [click](https://leetcode.com/problems/pascals-triangle/) | [click](./Solutions/PascleTriangle.java)
+02 | Majority Element II |  |[click](https://leetcode.com/problems/majority-element-ii/) | [click](./Solutions/MajorityElementII.java)
+03 | 3 Sum | |[click](https://leetcode.com/problems/3sum/) | [click](./Solutions/3Sum.java)
+04 | 3 Sum Closest | [click](https://practice.geeksforgeeks.org/problems/3-sum-closest/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=3-sum-closest) | |[click](./Solutions/3SumClosest.java)
+05 | 4 Sum | [click](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-all-four-sum-numbers) | [click](https://leetcode.com/problems/4sum/) | [click](./Solutions/4Sum.java)
+06 | Largest Subarray with Sum 0 | [click](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?category[]=Hash&category[]=Hash&company[]=Amazon&company[]=Amazon&page=1&query=category[]Hashcompany[]Amazonpage1company[]Amazoncategory[]Hash&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-subarray-with-0-sum)||[click](./Solutions/LargestSubarrayWith0Sum.java)
+07 | Subsets with Xor Value | [click](https://practice.geeksforgeeks.org/problems/subsets-with-xor-value2023/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=subsets-with-xor-value) | | [click](./Solutions/SubsetsWithXorValueK.java)
+08 | Merge Intervals | [click](https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=overlapping_intervals) | [click](https://leetcode.com/problems/merge-intervals/) | [click](./Solutions/MergeIntervals.java)
+09 | Merge Two Sorted Array | [click](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1?company[]=Synopsys&company[]=Synopsys&page=1&query=company[]Synopsyspage1company[]Synopsys&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-two-sorted-arrays) | [click](https://leetcode.com/problems/merge-sorted-array/) | [click](./Solutions/MergeSortedArray.java)
+10 | Find Missing and Repeating number | [click](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating) ||[click](./Solutions/FindMissingAndRepeatingNumber.java)
+11 | Count Inversions | [click](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=inversion-of-array) |  | [click](./Solutions/CountInversions.java)
+12 | Reverse Pairs | | [click](https://leetcode.com/problems/reverse-pairs/) | [click](./Solutions/ReversePairs.java)
+13 | Maximum Product Subarray | [click](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/0?qa-rewrite=3336/print-all-valid-combinations-of-ip-address&show=3350&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=maximum-product-subarray) | [click](https://leetcode.com/problems/maximum-product-subarray/submissions/) | [click](./Solutions/MaximumProductSubArray.java)
