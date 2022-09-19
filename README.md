@@ -7,3 +7,4 @@ Step | Topic | Path
 03 | Binary Search | [click](./BinarySearch/README.md)
 04 | String | [click](./String/README.md)
 05 | LinkedList | [click](./LinkedList/README.md)
+06 | Recursion | [click](./Recursion/README.md)
