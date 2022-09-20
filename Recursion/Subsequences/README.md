@@ -11,3 +11,4 @@ Sr. No. | Question|Link1 | Link2 | Solution
 07 | Subset Sums|[click](https://practice.geeksforgeeks.org/problems/subset-sums2234/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=subset-sums) | |[click](./Solutions/SubsetSum.java)
 08 | Subsets II || [click](https://leetcode.com/problems/subsets-ii/)|[click](./Solutions/SubsetsII.java)
 09 | Combination Sum III | | [click](https://leetcode.com/problems/combination-sum-iii/) | [click](./Solutions/CombinationSumIII.java)
+10 | Letter Combinations of Phone Number |[click](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=possible-words-from-phone-digits) |[click](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [click](./Solutions/LetterCombinationsOfPhoneNumbers.java)
