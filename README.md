@@ -8,3 +8,4 @@ Step | Topic | Path
 04 | String | [click](./String/README.md)
 05 | LinkedList | [click](./LinkedList/README.md)
 06 | Recursion | [click](./Recursion/README.md)
+07 | Bit Manipulation | [click](./BitManipulation/README.md)
