@@ -1,0 +1,12 @@
+## Index 
+
+Sr. No. | Question|Link1 | Link2 | Solution
+---|---|---|---|---
+01 | Stack Using Array | [click](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-array)||[click](./Solutions/StackUsingArray.java)
+02 | Queue Using Array | [click](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-queue-using-array) ||[click](./Solutions/QueueUsingArray.java)
+03 | Stack Using Queue | [click](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=stack-using-two-queues) | [click](https://leetcode.com/problems/implement-stack-using-queues/) | [click](./Solutions/StackUsingQueue.java)
+04 | Queue Using Stack | [click](https://practice.geeksforgeeks.org/problems/queue-using-stack/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=queue-using-stack) | [click](https://leetcode.com/problems/implement-queue-using-stacks) | [click](./Solutions/QueueUsingStack.java)
+05 | Stack Using LinkedList | [click](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-linked-list) || [click](./Solutions/StackUsingLinkedList.java)
+06 | Queue Using LinkedList | [click](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-queue-using-linked-list)||[click](./Solutions/QueueUsingLinkedList.java)
+07 | Valid Parentheses | [click](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=parenthesis-checker) | [click](https://leetcode.com/problems/valid-parentheses/) | [click](./Solutions/ValidParentheses.java)
+08 | Min Stack | [click](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=get-minimum-element-from-stack)| [click](https://leetcode.com/problems/min-stack/)|[click](./Solutions/MinStack.java)
