@@ -46,3 +46,33 @@ class Solution {
         return res;
     }
 }
+
+// GFG
+class Solution
+{
+    private static void helper(int ind, ArrayList<Integer> A, int B, ArrayList<ArrayList<Integer>> res, ArrayList<Integer> ds){
+        if(B<0) return ;
+        
+        if(B==0){
+                res.add(new ArrayList<Integer>(ds));
+            return;
+        }
+        
+        for(int i=ind;i < A.size();i++){
+            if(i!=ind && A.get(i)==A.get(i-1)) continue;
+            ds.add(A.get(i));
+            helper(i, A, B-A.get(i), res, ds);
+            ds.remove(ds.size()-1);
+        }
+    }
+    //Function to return a list of indexes denoting the required 
+    //combinations whose sum is equal to given number.
+    static ArrayList<ArrayList<Integer>> combinationSum(ArrayList<Integer> A, int B)
+    {
+        // add your code here
+        ArrayList<ArrayList<Integer>> res=new ArrayList<>();
+        Collections.sort(A);
+        helper(0, A, B, res, new ArrayList<>());
+        return res;
+    }
+}
