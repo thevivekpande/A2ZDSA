@@ -12,3 +12,4 @@ Step | Topic | Path
 08 | Bit Manipulation | [click](./BitManipulation/README.md)
 09 | Stack and Queue | [click](./StackAndQueue/README.md)
 10 | Sliding Window & 2 Pointer | [click](./SlidingWindowAnd2Pointer/README.md)
+11 | Heaps | [click](./Heaps/README.md)
