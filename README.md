@@ -13,3 +13,4 @@ Step | Topic | Path
 09 | Stack and Queue | [click](./StackAndQueue/README.md)
 10 | Sliding Window & 2 Pointer | [click](./SlidingWindowAnd2Pointer/README.md)
 11 | Heaps | [click](./Heaps/README.md)
+12 | Greedy Algorithms | [click](./GreedyAlgorithm/README.md)
