@@ -1,4 +1,10 @@
-## Index
+## This repository contains solutions of complete A2Z DSA Sheet provided by Striver.
+- for each questions there is 3 link is given, 
+- Link 1 is for GFG problem
+- Link 2 is for Leetcode problem 
+- Link 3 is for solution.
+
+## **Index**
 
 Step | Topic | Path
 ---|---|---
@@ -15,3 +21,6 @@ Step | Topic | Path
 11 | Heaps | [click](./Solutions/Heaps/README.md)
 12 | Greedy Algorithms | [click](./Solutions/GreedyAlgorithm/README.md)
 13 | Binary Tree | [click](./Solutions/BinaryTree/README.md)
+
+
+# Feel Free to star or fork this repository.
