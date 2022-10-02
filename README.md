@@ -14,3 +14,4 @@ Step | Topic | Path
 10 | Sliding Window & 2 Pointer | [click](./SlidingWindowAnd2Pointer/README.md)
 11 | Heaps | [click](./Heaps/README.md)
 12 | Greedy Algorithms | [click](./GreedyAlgorithm/README.md)
+13 | Binary Tree | [click](./BinaryTree/README.md)
