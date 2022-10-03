@@ -12,3 +12,4 @@ Sr. No. | Question|Link1 | Link2 | Solution
 08 | Subarrays with K different Integers | | [click](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [click](./Solutions/SubarraysWithKDifferentIntegers.java)
 09 | Substring Containing All 3 Characters | | [click](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [click](./Solutions/SubstringContainingAll3Characters.java)
 10 | Maximum Point obtained by cards||[click](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [click](./Solutions/MaximumPointsObtainedFromCards.java)
+11 | Minimum Time to make Rope Colorful || [click](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [click](./Solutions/MinimumTimeToMakeRopeColorful.java)
