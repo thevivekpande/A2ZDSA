@@ -44,7 +44,6 @@ class Solution {
 
 // Leetcode
 class Solution {
-    
     private static void path(TreeNode root, String str, List<String> ans){
         if(root.left==null && root.right==null) ans.add(str+root.val);
         if(root.left!=null) path(root.left, str+root.val+"->", ans);
