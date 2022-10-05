@@ -15,3 +15,4 @@ Sr. No. | Question|Link1 | Link2 | Solution
 11 | Right View | | [click](https://leetcode.com/problems/binary-tree-right-side-view/) | [click](./Solutions/RightViewOfBT.java)
 12 | Left View | [click](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=left-view-of-binary-tree) || [click](./Solutions/LeftViewOfBT.java)
 13 | Symmetric Tree | [click](https://practice.geeksforgeeks.org/problems/symmetric-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=symmetric-tree) | [click](https://leetcode.com/problems/symmetric-tree/) | [click](./Solutions/SymmetricTree.java)
+14 | Path Sum | | [click](https://leetcode.com/problems/path-sum/) | [click](./Solutions/PathSum.java)
