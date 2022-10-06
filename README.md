@@ -22,6 +22,7 @@ Step | Topic | Path
 11 | Heaps | [click](./Solutions/Heaps/README.md)
 12 | Greedy Algorithms | [click](./Solutions/GreedyAlgorithm/README.md)
 13 | Binary Tree | [click](./Solutions/BinaryTree/README.md)
+14 | Binary Search Tree | [click](./Solutions/BinarySearchTree/README.md)
 
 
 ### **Feel Free to star or fork this repository.**
