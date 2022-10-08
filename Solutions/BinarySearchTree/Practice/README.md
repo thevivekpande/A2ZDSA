@@ -15,3 +15,4 @@ Sr. No. | Question|Link1 | Link2 | Solution
 11 | Merge two BSTs | [click](https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1) | | [click](./Solutions/MergeTwoBSTs.java)
 12 | Two Sum in BST | [click](https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1) | [click](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [click](./Solutions/TwoSumInBST.java)
 13 | Recover BST || [click](https://leetcode.com/problems/recover-binary-search-tree/)  | [click](./Solutions/RecoverBST.java)
+14 | Largest BST | [click](https://practice.geeksforgeeks.org/problems/largest-bst/1) || [click](./Solutions/LargestBST.java)
