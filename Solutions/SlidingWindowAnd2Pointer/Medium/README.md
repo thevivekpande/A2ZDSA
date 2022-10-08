@@ -13,3 +13,4 @@ Sr. No. | Question|Link1 | Link2 | Solution
 09 | Substring Containing All 3 Characters | | [click](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [click](./Solutions/SubstringContainingAll3Characters.java)
 10 | Maximum Point obtained by cards||[click](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [click](./Solutions/MaximumPointsObtainedFromCards.java)
 11 | Minimum Time to make Rope Colorful || [click](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [click](./Solutions/MinimumTimeToMakeRopeColorful.java)
+16 | Substring With K Length & K-1 Char | [click](https://practice.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1) || [click](./Solutions/SubstringWithLenKAndKMinus1Chracter.java)
