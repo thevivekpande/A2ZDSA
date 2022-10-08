@@ -13,4 +13,5 @@ Sr. No. | Question|Link1 | Link2 | Solution
 09 | Predecessor and Succesor | [click](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1) | [click](https://leetcode.com/problems/inorder-successor-in-bst/) | [click](./Solutions/predecessorAndSuccesor.java)
 10 | BST Iterator | | [click](https://leetcode.com/problems/binary-search-tree-iterator/) | [click](./Solutions/BSTIterator.java)
 11 | Merge two BSTs | [click](https://practice.geeksforgeeks.org/problems/merge-two-bst-s/1) | | [click](./Solutions/MergeTwoBSTs.java)
-12 |
+12 | Two Sum in BST | [click](https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1) | [click](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [click](./Solutions/TwoSumInBST.java)
+13 | Recover BST || [click](https://leetcode.com/problems/recover-binary-search-tree/)  | [click](./Solutions/RecoverBST.java)
