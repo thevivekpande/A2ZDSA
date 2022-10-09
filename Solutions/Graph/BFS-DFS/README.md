@@ -11,3 +11,6 @@ Sr. No. | Question|Link1 | Link2 | Solution
 07 | Surrounded Regions | [click](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=replace-os-with-xs) | [click](https://leetcode.com/problems/surrounded-regions/) | [click](./Solutions/SurroundedRegions.java)
 08 | Number of Enclaves| [click](https://practice.geeksforgeeks.org/problems/number-of-enclaves/1) | [click](https://leetcode.com/problems/number-of-enclaves/) | [click](./Solutions/NumberOfEnclaves.java)
 09 | Word Ladder 1 | [click](https://practice.geeksforgeeks.org/problems/word-ladder/1) | [click](https://leetcode.com/problems/word-ladder/) | [click](./Solutions/WordLadder1.java)
+10 | Word Ladder 2 | [click](https://practice.geeksforgeeks.org/problems/word-ladder-ii/1) | [click](https://leetcode.com/problems/word-ladder-ii/) | [click](./Solutions/WordLadder2.java)
+11 | Number of Distinct Islands| [click](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1) | [click](https://leetcode.com/problems/number-of-distinct-islands-ii/) | [click](./Solutions/NumberOfDifferentIslands.java)
+12 | Bipartite Graph | [click](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) | [click](https://leetcode.com/problems/is-graph-bipartite/) | [click](./Solutions/BipartiteGraph.java)
