@@ -15,7 +15,6 @@ class Solution {
             inDegree[it]++;
             
         Queue<Integer> q=new LinkedList<>();
-        int[] res=new int[n];
         int c=0;
         for(int i=0;i<n;i++)
             if(inDegree[i]==0)
@@ -23,7 +22,7 @@ class Solution {
                 
         while(!q.isEmpty()){
             int cur=q.poll();
-            res[c++]=cur;
+            c++;
             for(int it:adj.get(cur)){
                 inDegree[it]--;
                 if(inDegree[it]==0) 
