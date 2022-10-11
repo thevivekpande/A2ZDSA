@@ -1,6 +1,6 @@
 ## This repository contains solutions of complete A2Z DSA Sheet provided by Striver.
 
-**For each questions there are 3 link given,**
+**For each questions 3 link are given,**
 - Link 1 is for GFG problem
 - Link 2 is for Leetcode problem 
 - Link 3 is for solution.
