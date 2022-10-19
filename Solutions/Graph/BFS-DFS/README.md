@@ -15,3 +15,4 @@ Sr. No. | Question|Link1 | Link2 | Solution
 11 | Number of Distinct Islands| [click](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1) | [click](https://leetcode.com/problems/number-of-distinct-islands-ii/) | [click](./Solutions/NumberOfDifferentIslands.java)
 12 | Bipartite Graph | [click](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) | [click](https://leetcode.com/problems/is-graph-bipartite/) | [click](./Solutions/BipartiteGraph.java)
 13 | Detect Cycle in Directed Graph | [click](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) || [click](./Solutions/DetectCycleInDirectedGraph.java)
+14 | Hamilton Path | [click](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1)| | [click](./Solutions/HamiltonPath.java)
