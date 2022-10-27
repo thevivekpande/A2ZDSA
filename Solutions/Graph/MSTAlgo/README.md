@@ -10,3 +10,4 @@ Sr. No. | Question|Link1 | Link2 | Solution
 06 | Numbers of Oprn to make n/w connected || [click]()|[click](./Solutions/NumberOfOperationsToMakeNetworkConnected.java)
 07| Most Stones Removed from same Row or col || [click](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [click](./Solutions/MostStonesRemovedFromSameRowOrCol.java)
 08 | Merge Accounts | [click](https://practice.geeksforgeeks.org/problems/merging-details/1) | [click](https://leetcode.com/problems/accounts-merge/) | [click](./Solutions/MergeAccounts.java)
+09 | Number of Islands II | [click](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) | [click](https://leetcode.com/problems/number-of-islands-ii/) | [click](./Solutions/numberOfIslandsII.java)

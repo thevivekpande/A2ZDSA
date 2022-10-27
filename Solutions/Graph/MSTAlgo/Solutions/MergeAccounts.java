@@ -7,8 +7,10 @@ class DisjointSet{
         rank=new int[n];
         size=new int[n];
         parent=new int[n];
-        for(int i=0;i<n;i++)
+        for(int i=0;i<n;i++){
             parent[i]=i;
+            size[i]=1;
+        }
     }
     
     int find(int i){
