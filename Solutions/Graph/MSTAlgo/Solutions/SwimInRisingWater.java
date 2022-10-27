@@ -1,3 +1,37 @@
+// Using Dijkstra's Algo
+class Solution {
+    public int swimInWater(int[][] grid) {
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a, b)->a[2]-b[2]);
+        int n=grid.length;
+        pq.offer(new int[]{0, 0, grid[0][0]});
+        
+        int[][] dirs=new int[][]{{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
+        HashSet<Integer> set=new HashSet<>();
+        
+        while(!pq.isEmpty()){
+            int[] cur=pq.poll();
+            int x=cur[0];
+            int y=cur[1];
+            int wt=cur[2];
+            
+            set.add(x*n+y);
+            
+            if(x==n-1 && y==n-1) return wt;
+            
+            for(int[] dir:dirs){
+                int nextX=dir[0]+x;
+                int nextY=dir[1]+y;
+                if(nextX<0 || nextY<0 || nextX>=n || nextY>=n || set.contains(nextX*n+nextY)) continue;
+                pq.offer(new int[]{nextX, nextY, Math.max(grid[nextX][nextY], wt)});
+            }
+        }
+        
+        return n*n-1;
+    }
+}
+
+
+// Using Disjoint set
 class DisjointSet{
     int[] parent;
     int[] size;
