@@ -11,3 +11,5 @@ Sr. No. | Question|Link1 | Link2 | Solution
 07| Most Stones Removed from same Row or col || [click](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [click](./Solutions/MostStonesRemovedFromSameRowOrCol.java)
 08 | Merge Accounts | [click](https://practice.geeksforgeeks.org/problems/merging-details/1) | [click](https://leetcode.com/problems/accounts-merge/) | [click](./Solutions/MergeAccounts.java)
 09 | Number of Islands II | [click](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1) | [click](https://leetcode.com/problems/number-of-islands-ii/) | [click](./Solutions/numberOfIslandsII.java)
+10 | Making A Large Island | [click](https://practice.geeksforgeeks.org/problems/maximum-connected-group/1) | [click](https://leetcode.com/problems/making-a-large-island/) | [click](./Solutions/MakingALargeIsland.java)
+11 | Swim in Rising water || [click](https://leetcode.com/problems/swim-in-rising-water/) | [click](./Solutions/SwimInRisingWater.java) 
