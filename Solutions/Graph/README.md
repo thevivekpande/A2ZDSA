@@ -7,4 +7,4 @@ Step | Topic | Path
 03 | Topological Sort | [click](./TopoSort/README.md)
 04 | Shortest Path Algorithms | [click](./ShortestPathAlgo/README.md)
 05 | MST Algorithm | [click](./MSTAlgo/README.md)
-06 | Miscellaneous | [click](./Miscellaneous/README.md)
+06 | Other Algorithms | [click](./Miscellaneous/README.md)
