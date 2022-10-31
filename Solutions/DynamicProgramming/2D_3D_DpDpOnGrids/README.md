@@ -10,3 +10,5 @@ Sr. No. | Question|Link1 | Link2 | Solution
 06 | Min Path Sum in Triangular Grid || [click](https://leetcode.com/problems/triangle/) | [click](./Solutions/Triangle.java)
 07 | Maximum Path sum in matrix | [click](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1) | | [click](./Solutions/maxPathInMatrix.java)
 08 | Minimum Path sum in matrix |  | [click](https://leetcode.com/problems/minimum-falling-path-sum/) | [click](./Solutions/MinPathInMatrix.java)
+09 | Chocolate Pickup | [click](https://www.codingninjas.com/codestudio/problems/ninja-and-his-friends_3125885)| | [click](./Solutions/chocolatePickUp.java)
+
